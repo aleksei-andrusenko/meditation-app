@@ -30,6 +30,7 @@ const app = () => {
       song.play();
       video.play();
       play(song);
+      
     } else {
       song.pause();
       video.pause();
